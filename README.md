@@ -1,4 +1,4 @@
-# Visualization of Prosper's financial data to complete the last Udacity project
+# Analysis and visualization of financial data
 
 To complete the last project I decided to explore Prosper's loan data. The data set has 113,937 records and 81 columns, however I summarized the data for analysis in 8 columns. My target variable is ProsperRatingAlpha, and which features affect each rating. I chose to work with Term, employment status, loan amount, APR rate, IsBorrowerHomeowner and CurrentCreditLines.
 
